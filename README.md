@@ -1,2 +1,2 @@
 # ws-1
-this is my first git based prpject
+this is my first git based project
